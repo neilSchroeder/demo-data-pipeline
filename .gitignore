@@ -39,6 +39,7 @@ logs/
 # Data (keep structure, ignore actual data files)
 data/raw/*.csv
 data/processed/*.csv
+data/processed/*/
 !data/sample/*.csv
 
 # Testing
