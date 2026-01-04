@@ -192,12 +192,13 @@ def validate_completeness(
     return True
 
 
-def generate_data_quality_report(df: pd.DataFrame) -> Dict[str, Any]:
+def generate_data_quality_report(df: pd.DataFrame, subset: Optional[List[str]] = None) -> Dict[str, Any]:
     """
     Generate a comprehensive data quality report.
     
     Args:
         df: Input dataframe
+        subset: Column subset to use for duplicate detection (default: all columns)
         
     Returns:
         Dictionary containing quality metrics
@@ -205,7 +206,7 @@ def generate_data_quality_report(df: pd.DataFrame) -> Dict[str, Any]:
     report = {
         "total_rows": len(df),
         "total_columns": len(df.columns),
-        "duplicate_rows": df.duplicated().sum(),
+        "duplicate_rows": df.duplicated(subset=subset).sum(),
         "columns_with_missing": (df.isnull().any()).sum(),
         "total_missing_values": df.isnull().sum().sum(),
         "missing_percentage": (df.isnull().sum().sum() / (len(df) * len(df.columns))) * 100,

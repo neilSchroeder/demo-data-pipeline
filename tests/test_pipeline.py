@@ -3,6 +3,7 @@
 import unittest
 import pandas as pd
 import tempfile
+import shutil
 from pathlib import Path
 
 from src.pipeline import DataCleaningPipeline
@@ -29,6 +30,12 @@ class TestDataCleaningPipeline(unittest.TestCase):
         self.test_data.to_csv(self.input_path, index=False)
         
         self.output_dir = Path(self.temp_dir) / "output"
+    
+    def tearDown(self):
+        """Clean up test fixtures."""
+        # Remove temporary directory and all contents
+        if Path(self.temp_dir).exists():
+            shutil.rmtree(self.temp_dir)
     
     def test_pipeline_initialization(self):
         """Test pipeline initialization."""
