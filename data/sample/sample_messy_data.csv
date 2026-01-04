@@ -1,0 +1,106 @@
+Customer ID, First Name ,Last_Name,Email Address,AGE,Signup Date,Purchase-Amount,City,Status
+1,Ian,Rodriguez,ian.rodriguez0@hotmail.com,56.0,11-26-2023,401.2,Dallas,active
+2,Jane,Brown,jane.brown1@yahoo.com,69.0,05-25-2021,927.39,Houston,active
+3,  John  ,Garcia,  john.garcia2@gmail.com  ,46.0,2020-09-30,730.0,Phoenix,suspended
+4,Julia,Smith,julia.smith3@company.com,32.0,2023-02-18,333.28,  San Antonio  ,inactive
+5,Charlie,Brown,charlie.brown4@gmail.com,60.0,2022-06-25,574.74,Philadelphia,active
+6,Alice,  Smith  ,alice.smith5@company.com,25.0,2022-10-30,525.63,San Diego,active
+7,Alice,  Garcia  ,alice.garcia6@yahoo.com,78.0,2022-07-02,961.56,  Dallas  ,  inactive  
+8,Bob,Miller,bob.miller7@yahoo.com,38.0,2022-08-30,846.09,San Diego,active
+9,Julia,Jones,julia.jones8@company.com,56.0,29/07/2023,749.85,Los Angeles,  active  
+10,Jane,Johnson,,75.0,12-03-2022,544.3,Houston,inactive
+11,Ian,Brown,ian.brown10@hotmail.com,36.0,19/06/2022,590.88,Houston,suspended
+12,Julia,Martinez,julia.martinez11@yahoo.com,40.0,08/08/2021,965.6,Los Angeles,active
+13,George,Garcia,george.garcia12@yahoo.com,,2021-11-18,610.96,Philadelphia,inactive
+14,Jane,Brown,jane.brown13@gmail.com,28.0,10/10/2020,283.24,New York,active
+15,Hannah,  Davis  ,,41.0,2022-02-23,303.31,San Jose,active
+16,Edward,Miller,edward.miller15@company.com,5.0,2020-05-11,-100.0,Dallas,suspended
+17,John,Davis,john.davis16@hotmail.com,53.0,08-12-2022,25.48,Houston,pending
+18,John,  Williams  ,john.williams17@hotmail.com,57.0,2022-05-10,429.17,San Jose,pending
+19,Jane,Jones,jane.jones18@gmail.com,41.0,25/11/2023,400.93,Houston,inactive
+20,Alice,Williams,alice.williams19@hotmail.com,20.0,03-25-2023,300.55,New York,pending
+21,Alice,Brown,alice.brown20@hotmail.com,39.0,21/12/2021,23.94,Los Angeles,inactive
+22,George,Rodriguez,george.rodriguez21@company.com,70.0,2022-03-09,206.85,  New York  ,pending
+23,Hannah,Rodriguez,hannah.rodriguez22@hotmail.com,19.0,2022-05-08,714.23,Houston,suspended
+24,John,Jones,john.jones23@gmail.com,41.0,2023-05-20,792.27,Los Angeles,INACTIVE
+25,George,  Martinez  ,george.martinez24@gmail.com,5.0,07-12-2021,0.01,New York,pending
+26,Alice,Miller,  alice.miller25@hotmail.com  ,47.0,2021-11-19,927.04,Philadelphia,suspended
+27,Julia,Martinez,julia.martinez26@yahoo.com,150.0,2020-12-04,0.01,Los Angeles,pending
+28,Ian,Miller,ian.miller27@hotmail.com,,2023-06-28,915.81,Dallas,active
+29,Julia,Garcia,julia.garcia28@gmail.com,77.0,04-27-2023,851.54,Houston,ACTIVE
+30,George,Brown,george.brown29@gmail.com,38.0,2023-08-09,454.96,Phoenix,SUSPENDED
+31,  Edward  ,Williams,edward.williams30@company.com,50.0,07/01/2021,104.46,San Diego,  ACTIVE  
+32,Alice,Rodriguez,alice.rodriguez31@hotmail.com,150.0,2022-02-15,50000.0,Houston,active
+33,Fiona,Davis,  fiona.davis32@hotmail.com  ,75.0,2021-11-22,672.15,Dallas,inactive
+34,  Hannah  ,Johnson,  hannah.johnson33@company.com  ,39.0,13/05/2022,669.26,Chicago,pending
+35,Charlie,Smith,charlie.smith34@gmail.com,78.0,2020-06-16,595.38,San Jose,  inactive  
+36,John,Johnson,john.johnson35@company.com,200.0,2020-04-16,50000.0,San Jose,pending
+37,Bob,Williams,bob.williams36@yahoo.com,42.0,24/08/2023,565.63,San Diego,active
+38,  Julia  ,Williams,julia.williams37@hotmail.com,66.0,27/08/2023,389.1,Houston,inactive
+39,Edward,Miller,edward.miller38@gmail.com,44.0,03-04-2020,971.99,San Diego,pending
+40,Diana,  Martinez  ,  diana.martinez39@company.com  ,76.0,02-11-2020,850.42,  San Antonio  ,pending
+41,Charlie,Johnson,charlie.johnson40@gmail.com,59.0,2022-08-27,724.51,Houston,inactive
+42,Bob,Miller,bob.miller41@yahoo.com,45.0,03-22-2021,243.63,  Los Angeles  ,suspended
+43,Alice,  Miller  ,,77.0,25/01/2022,263.51,Los Angeles,pending
+44,Diana,Martinez,  diana.martinez43@company.com  ,33.0,2023-05-28,50.03,San Antonio,active
+45,  Jane  ,Davis,jane.davis44@gmail.com,32.0,12-01-2020,713.56,Philadelphia,pending
+46,Jane,  Rodriguez  ,jane.rodriguez45@hotmail.com,79.0,2020-02-22,119.78,San Antonio,  active  
+47,Edward,Jones,,79.0,2022-02-07,444.94,San Antonio,inactive
+48,Jane,Rodriguez,  jane.rodriguez47@gmail.com  ,64.0,2020-06-04,209.7,  San Diego  ,  pending  
+49,Diana,Smith,diana.smith48@hotmail.com,79.0,12/05/2021,896.81,New York,active
+50,Diana,Johnson,diana.johnson49@hotmail.com,68.0,2021-09-09,480.62,Los Angeles,ACTIVE
+51,  Hannah  ,Rodriguez,  hannah.rodriguez50@company.com  ,61.0,2020-09-04,567.64,New York,inactive
+52,  Charlie  ,Jones,charlie.jones51@hotmail.com,200.0,2020-03-25,0.01,San Antonio,pending
+53,John,  Garcia  ,john.garcia52@company.com,,28/01/2022,147.94,Philadelphia,PENDING
+54,Julia,Johnson,  julia.johnson53@hotmail.com  ,74.0,2023-08-19,608.37,Los Angeles,inactive
+55,  Fiona  ,Jones,fiona.jones54@yahoo.com,20.0,30/09/2022,544.44,  Houston  ,pending
+56,  George  ,Miller,george.miller55@yahoo.com,54.0,2022-01-11,211.03,Houston,inactive
+57,Jane,Williams,jane.williams56@company.com,68.0,19/12/2023,943.43,Houston,pending
+58,Edward,Davis,edward.davis57@company.com,,2020-12-26,602.88,Dallas,  suspended  
+59,Jane,Smith,jane.smith58@yahoo.com,-10.0,2021-07-07,-100.0,San Diego,pending
+60,George,Jones,george.jones59@hotmail.com,-10.0,2022-09-17,-100.0,Chicago,active
+61,Charlie,Rodriguez,charlie.rodriguez60@company.com,200.0,28/04/2023,50000.0,San Antonio,  active  
+62,Ian,Williams,ian.williams61@gmail.com,35.0,05-17-2021,302.68,Chicago,SUSPENDED
+63,Hannah,Rodriguez,hannah.rodriguez62@hotmail.com,21.0,12/07/2022,114.44,Phoenix,pending
+64,Diana,Johnson,diana.johnson63@hotmail.com,42.0,2022-08-09,461.97,  San Diego  ,active
+65,Hannah,Jones,hannah.jones64@yahoo.com,77.0,19/11/2021,226.26,Houston,active
+66,Alice,  Rodriguez  ,alice.rodriguez65@company.com,31.0,27/10/2021,422.34,,  pending  
+67,Julia,Martinez,julia.martinez66@hotmail.com,67.0,03-10-2021,884.45,San Diego,inactive
+68,Jane,Brown,jane.brown67@company.com,75.0,2021-07-26,331.1,Dallas,  pending  
+69,John,Williams,  john.williams68@company.com  ,26.0,2021-07-19,130.87,  Los Angeles  ,inactive
+70,Ian,Garcia,ian.garcia69@company.com,43.0,26/01/2021,362.73,New York,suspended
+71,Alice,Williams,alice.williams70@yahoo.com,150.0,2022-04-12,50000.0,  Dallas  ,suspended
+72,Charlie,Rodriguez,charlie.rodriguez71@company.com,19.0,2023-11-15,279.41,New York,active
+73,Jane,Rodriguez,jane.rodriguez72@yahoo.com,37.0,07-06-2022,651.21,Los Angeles,active
+74,  Alice  ,Smith,alice.smith73@gmail.com,45.0,03-29-2021,10.52,Houston,active
+75,Jane,Martinez,jane.martinez74@hotmail.com,64.0,2023-09-21,359.04,Chicago,inactive
+76,Edward,Garcia,edward.garcia75@hotmail.com,77.0,2022-12-23,311.73,San Antonio,active
+77,Charlie,Davis,charlie.davis76@gmail.com,24.0,2023-02-01,173.01,San Diego,pending
+78,Fiona,Smith,  fiona.smith77@yahoo.com  ,61.0,07-08-2021,538.75,San Diego,inactive
+79,Ian,Johnson,ian.johnson78@hotmail.com,78.0,2021-01-29,489.98,Houston,  suspended  
+80,Diana,  Garcia  ,  diana.garcia79@yahoo.com  ,25.0,14/11/2023,695.51,San Antonio,inactive
+81,Bob,Jones,bob.jones80@yahoo.com,64.0,03-19-2021,276.72,New York,active
+82,Diana,Brown,diana.brown81@yahoo.com,52.0,2023-04-22,251.68,Chicago,pending
+83,  Diana  ,  Smith  ,diana.smith82@gmail.com,31.0,2021-08-02,176.61,San Antonio,pending
+84,Alice,  Brown  ,alice.brown83@gmail.com,34.0,29/08/2021,226.58,New York,active
+85,Ian,Martinez,ian.martinez84@yahoo.com,53.0,2021-01-02,562.52,San Antonio,pending
+86,Charlie,Johnson,charlie.johnson85@company.com,67.0,16/09/2020,409.8,Phoenix,  inactive  
+87,  Julia  ,Johnson,julia.johnson86@gmail.com,57.0,2020-04-21,74.24,San Diego,INACTIVE
+88,Ian,Davis,  ian.davis87@company.com  ,21.0,2020-09-15,261.38,  Phoenix  ,  active  
+89,Ian,Johnson,ian.johnson88@company.com,,2020-07-29,254.41,San Antonio,PENDING
+90,Jane,Rodriguez,jane.rodriguez89@yahoo.com,79.0,2022-08-19,699.34,Dallas,suspended
+91,Hannah,Williams,hannah.williams90@company.com,23.0,15/04/2020,715.15,San Diego,  INACTIVE  
+92,  Ian  ,Williams,ian.williams91@company.com,71.0,05/09/2022,156.61,Chicago,inactive
+93,Bob,  Davis  ,bob.davis92@company.com,59.0,05-13-2020,997.76,Houston,inactive
+94,George,Rodriguez,george.rodriguez93@yahoo.com,21.0,07-13-2023,274.11,Phoenix,  inactive  
+95,Julia,Williams,julia.williams94@yahoo.com,71.0,02-26-2023,976.85,Houston,suspended
+96,  Alice  ,Jones,alice.jones95@gmail.com,46.0,23/05/2021,416.93,  New York  ,active
+97,Bob,Rodriguez,bob.rodriguez96@gmail.com,35.0,2022-05-02,42.72,San Jose,inactive
+98,Fiona,Martinez,fiona.martinez97@company.com,43.0,2021-04-07,351.62,Dallas,pending
+99,Edward,Miller,edward.miller98@yahoo.com,61.0,25/06/2022,638.01,New York,suspended
+100,Charlie,Brown,charlie.brown99@yahoo.com,51.0,2023-04-20,683.9,  Philadelphia  ,inactive
+53,John,Garcia,john.garcia52@company.com,69.0,28/01/2022,147.94,Philadelphia,pending
+44,  Diana  ,Martinez,diana.martinez43@company.com,33.0,2023-05-28,50.03,  San Antonio  ,active
+90,Jane,  Rodriguez  ,jane.rodriguez89@yahoo.com,79.0,2022-08-19,699.34,Dallas,suspended
+32,Alice,Rodriguez,alice.rodriguez31@hotmail.com,29.0,2022-02-15,377.11,Houston,active
+70,Ian,Garcia,ian.garcia69@company.com,43.0,26/01/2021,362.73,New York,suspended
