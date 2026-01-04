@@ -1,19 +1,19 @@
 {
-  "total_rows": 1044,
+  "total_rows": 1038,
   "total_columns": 9,
   "duplicate_rows": "24",
   "columns_with_missing": "1",
-  "total_missing_values": "544",
-  "missing_percentage": 5.789697743720732,
+  "total_missing_values": "539",
+  "missing_percentage": 5.769642474844787,
   "column_stats": {
     "customer_id": {
       "dtype": "int64",
       "missing_count": 0,
       "missing_percentage": 0.0,
-      "unique_values": 1000,
-      "mean": 499.31609195402297,
+      "unique_values": 994,
+      "mean": 499.32369942196533,
       "median": 497.5,
-      "std": 288.89025888306054,
+      "std": 288.9877943136864,
       "min": 1.0,
       "max": 1000.0
     },
@@ -33,35 +33,35 @@
       "dtype": "object",
       "missing_count": 0,
       "missing_percentage": 0.0,
-      "unique_values": 972
+      "unique_values": 966
     },
     "age": {
       "dtype": "float64",
       "missing_count": 0,
       "missing_percentage": 0.0,
-      "unique_values": 66,
-      "mean": 50.423371647509576,
+      "unique_values": 64,
+      "mean": 49.60693641618497,
       "median": 50.0,
-      "std": 21.18762617894139,
+      "std": 18.259503808232516,
       "min": -10.0,
-      "max": 200.0
+      "max": 79.0
     },
     "signup_date": {
       "dtype": "datetime64[ns]",
-      "missing_count": 544,
-      "missing_percentage": 52.10727969348659,
-      "unique_values": 420
+      "missing_count": 539,
+      "missing_percentage": 51.92678227360308,
+      "unique_values": 419
     },
     "purchaseamount": {
       "dtype": "float64",
       "missing_count": 0,
       "missing_percentage": 0.0,
-      "unique_values": 959,
-      "mean": 604.1896551724138,
+      "unique_values": 958,
+      "mean": 511.5356262042389,
       "median": 531.5550000000001,
-      "std": 2183.458895638628,
+      "std": 281.1499243868507,
       "min": -100.0,
-      "max": 50000.0
+      "max": 999.36
     },
     "city": {
       "dtype": "object",
